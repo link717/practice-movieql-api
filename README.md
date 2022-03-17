@@ -1,2 +1,2 @@
 # practice-movieql-api
-Moive API with Graphql
+Movie API with Graphql
